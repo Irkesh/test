@@ -2,3 +2,5 @@ there is new line
 GIT!!
 --
 another new line
+--
+another new line 2
